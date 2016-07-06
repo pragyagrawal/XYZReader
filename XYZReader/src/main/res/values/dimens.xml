@@ -1,0 +1,20 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">18sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="floating_button_dimen">56dp</dimen>
+    <dimen name="card_view_dimen">4dp</dimen>
+    <dimen name="thumbnail_height">100dp</dimen>
+    <dimen name="padding_dimen">16dp</dimen>
+    <dimen name="recycler_view_padding_bottom">28dp</dimen>
+    <dimen name="recycler_view_padding_top">100dp</dimen>
+    <dimen name="toolbar_content_insert_height">72dp</dimen>
+    <dimen name="logo_margin_top">20dp</dimen>
+    <dimen name="appbar_height">112dp</dimen>
+
+</resources>
